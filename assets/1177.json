@@ -1,0 +1,27 @@
+{
+  "dna": "42afff36a25137f0f6500e0b6d3e9cd96940e02b",
+  "name": "Arachnids Collection #1177",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1177.png",
+  "edition": 1177,
+  "date": 1643463631430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dream"
+    },
+    {
+      "trait_type": "Pedipalps_Wolf",
+      "value": "RoseGold"
+    },
+    {
+      "trait_type": "Cephalotorax_Wolf",
+      "value": "BloodGold"
+    },
+    {
+      "trait_type": "Abdomen_Wolf",
+      "value": "Wolf"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1177.png"
+}
