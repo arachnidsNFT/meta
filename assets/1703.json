@@ -1,0 +1,31 @@
+{
+  "dna": "4276044119a06e58f165a739990adfb71ddf9df9",
+  "name": "Arachnids Collection #1703",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1703.png",
+  "edition": 1703,
+  "date": 1643462459237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Pedipalps_Widow",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Cephalotorax_Widow",
+      "value": "Mercury"
+    },
+    {
+      "trait_type": "Abdomen_WidowPlain",
+      "value": "Widow"
+    },
+    {
+      "trait_type": "Skin_Widow",
+      "value": "Scar"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1703.png"
+}

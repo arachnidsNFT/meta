@@ -1,0 +1,27 @@
+{
+  "dna": "a80f67d4a6aff29215e8b781bc137f39fc3fd5af",
+  "name": "Arachnids Collection #1969",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1969.png",
+  "edition": 1969,
+  "date": 1643464259919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Pedipalps_Wolf",
+      "value": "FireRed"
+    },
+    {
+      "trait_type": "Cephalotorax_Wolf",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Abdomen_Wolf",
+      "value": "Wolf"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1969.png"
+}

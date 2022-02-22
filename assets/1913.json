@@ -1,0 +1,27 @@
+{
+  "dna": "530d196aba82347dec2396d93cf3e926e241e306",
+  "name": "Arachnids Collection #1913",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1913.png",
+  "edition": 1913,
+  "date": 1643461238198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dream"
+    },
+    {
+      "trait_type": "Pedipalps_Widow",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Cephalotorax_Widow",
+      "value": "Mercury"
+    },
+    {
+      "trait_type": "Abdomen_Widow",
+      "value": "Mercury"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1913.png"
+}

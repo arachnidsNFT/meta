@@ -1,0 +1,31 @@
+{
+  "dna": "07ad89b40f527540323fc702f8ed871b25b91b60",
+  "name": "Arachnids Collection #1968",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1968.png",
+  "edition": 1968,
+  "date": 1643459544443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Abdomen_SpiderPlain",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Skin_Spider",
+      "value": "Moon"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1968.png"
+}

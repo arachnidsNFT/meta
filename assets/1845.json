@@ -1,0 +1,27 @@
+{
+  "dna": "cbd9385a719b3b0e640950b8cfe23eef31e626f9",
+  "name": "Arachnids Collection #1845",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1845.png",
+  "edition": 1845,
+  "date": 1643461029849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Pedipalps_Widow",
+      "value": "Mercury"
+    },
+    {
+      "trait_type": "Cephalotorax_Widow",
+      "value": "Widow"
+    },
+    {
+      "trait_type": "Abdomen_Widow",
+      "value": "Opal"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1845.png"
+}

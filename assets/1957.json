@@ -1,0 +1,31 @@
+{
+  "dna": "74ab4557cc04e9d15333dcc356c70a0136867006",
+  "name": "Arachnids Collection #1957",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1957.png",
+  "edition": 1957,
+  "date": 1643459375837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Venom"
+    },
+    {
+      "trait_type": "Abdomen_SpiderPlain",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Skin_Spider",
+      "value": "Scar"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1957.png"
+}

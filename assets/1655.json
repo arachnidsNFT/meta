@@ -1,0 +1,27 @@
+{
+  "dna": "6b90fdbd8f4cfc8049f1649a342411a46562ba59",
+  "name": "Arachnids Collection #1655",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1655.png",
+  "edition": 1655,
+  "date": 1643460326067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Pedipalps_Widow",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Cephalotorax_Widow",
+      "value": "Widow"
+    },
+    {
+      "trait_type": "Abdomen_Widow",
+      "value": "Ember"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1655.png"
+}

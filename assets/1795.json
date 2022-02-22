@@ -1,0 +1,27 @@
+{
+  "dna": "e7a8fef0206369de2771b1cde504d92041249477",
+  "name": "Arachnids Collection #1795",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1795.png",
+  "edition": 1795,
+  "date": 1643457484375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Mercury"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Abdomen_Spider",
+      "value": "Ember"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1795.png"
+}

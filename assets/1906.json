@@ -1,0 +1,27 @@
+{
+  "dna": "5c20545d0ac28bd786bcee044a38c2626c5fb3ca",
+  "name": "Arachnids Collection #1906",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1906.png",
+  "edition": 1906,
+  "date": 1643463615198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Pedipalps_Wolf",
+      "value": "FireRed"
+    },
+    {
+      "trait_type": "Cephalotorax_Wolf",
+      "value": "Glitch"
+    },
+    {
+      "trait_type": "Abdomen_Wolf",
+      "value": "FireRed"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1906.png"
+}

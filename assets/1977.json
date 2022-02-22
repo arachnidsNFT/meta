@@ -1,0 +1,31 @@
+{
+  "dna": "55c09836d96fc134ab3956e34377ca99b132fc8c",
+  "name": "Arachnids Collection #1977",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1977.png",
+  "edition": 1977,
+  "date": 1643458498210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Abdomen_SpiderPlain",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Skin_Spider",
+      "value": "Moon"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1977.png"
+}

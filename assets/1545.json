@@ -1,0 +1,27 @@
+{
+  "dna": "47c837618a42756a4520a9b501e9294275e074d7",
+  "name": "Arachnids Collection #1545",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1545.png",
+  "edition": 1545,
+  "date": 1643456434065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Haze"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Venom"
+    },
+    {
+      "trait_type": "Abdomen_Spider",
+      "value": "Silver"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1545.png"
+}

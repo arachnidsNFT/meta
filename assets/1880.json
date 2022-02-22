@@ -1,0 +1,27 @@
+{
+  "dna": "c4fb3070911368605fd695d197cbd681fdf45af7",
+  "name": "Arachnids Collection #1880",
+  "description": "Arachnids",
+  "image": "https://raw.githubusercontent.com/arachnidsNFT/metaw/main/assets/1880.png",
+  "edition": 1880,
+  "date": 1643457498919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dream"
+    },
+    {
+      "trait_type": "Pedipalps_Spider",
+      "value": "Venom"
+    },
+    {
+      "trait_type": "Cephalotorax_Spider",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Abdomen_Spider",
+      "value": "Spider"
+    }
+  ],
+  "ipfs_image": "ipfs://QmZzFnMnM8WydEDa5x4hfrVutVnyqUjcjXzJ1thW3FSqhi/1880.png"
+}
